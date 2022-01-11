@@ -1,0 +1,15 @@
+certifi
+chardet
+idna
+numpy
+pandas
+pydocumentdb
+pyodbc
+python-dateutil
+pytz
+requests
+scikit-learn
+scipy
+six
+sklearn
+urllib3
